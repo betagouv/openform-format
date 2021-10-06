@@ -1,4 +1,4 @@
-# openform-specs (DRAFT 0.1à
+# openform-specs (DRAFT 0.1)
 
 A description langage for forms that can be extended for specific forms (like administrative form)
 
@@ -51,6 +51,11 @@ items:
     description: 10 out of 10 stars is the only acceptable answer
     attributes:
       steps: 10
+  - id: B3
+    type: text
+    title: What's your company french registration number ?
+    extention-admin:
+       type: siret
     
 ```
 
@@ -87,7 +92,6 @@ items:
 ## Questions
 
 - How to manage select, checkbox and radio button ? (Should we simplify)
-
 
 ## Tools that can be useful to develop
 - Transform a openform description to a beautiful html form
