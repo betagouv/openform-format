@@ -90,14 +90,14 @@ items:
        colums
 
 ## Questions
-
 - How to manage select, checkbox and radio button ? (Should we simplify)
+- We can base our description) on https://json-schema.org/ (as a superset)
 
 ## Tools that can be useful to develop
 - Transform a openform description to a beautiful html form
 - Transform Google Form,Typeform description to openform description (for export/import feature)
 - Backend that store data from an openform generated html form in a table in a SQL database
- 
+- Generate the https://json-schema.org/ associated
 
 ## Already existing formats
 
