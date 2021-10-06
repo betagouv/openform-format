@@ -59,7 +59,7 @@ items:
     
 ```
 
-## Available type
+## Available types
 - boolean
   - attributes:
       true-label: text # default : "Yes" in the user langage
