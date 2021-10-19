@@ -106,3 +106,4 @@ items:
  https://www.w3.org/TR/1998/NOTE-XFDL-19980902
 - Typeform https://developer.typeform.com/create/reference/retrieve-form/
 - Google Form : https://developers.google.com/apps-script/reference/forms/
+- Zof typecheck  https://github.com/colinhacks/zod
