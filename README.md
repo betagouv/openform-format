@@ -67,6 +67,9 @@ items:
 - text
   - attributes:
       multiple-lines-allowed: boolean # default : false
+  - validations:
+      email
+      phone-number 
 - date
   - attributes:
       ask-time: boolean # default : false
@@ -75,12 +78,10 @@ items:
       allow-multiple-selection: boolean # default : false
       allow-other-choice: boolean # default : false
 - file
-- email
 - number
   - attributes : 
       min-value: number # default: 0
       max-value: number # default: 9 999 999 
-- phone-number 
 - rating
    - attributes: 
        steps: number # default : 5
